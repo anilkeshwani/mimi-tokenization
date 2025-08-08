@@ -1,0 +1,6 @@
+# Tokenize Speech Data with Mimi from Kyutai
+
+Uses https://huggingface.co/kyutai/mimi
+
+See ./mls.py --help
+

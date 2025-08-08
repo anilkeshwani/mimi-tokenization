@@ -1,0 +1,3 @@
+datasets[audio]
+transformers>=4.45.1
+torchaudio
